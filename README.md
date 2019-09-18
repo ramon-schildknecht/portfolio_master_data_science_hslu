@@ -19,9 +19,9 @@ https://github.com/ramon-schildknecht/United_Kingdom_Drug_Prescriptions_Branded_
 
 ## Applied Machine Learning and Predictive Modeling - Group Project Lending Club Loan Data
 ### Tasks
-Part 1: We aim at finding a regression for estimating the interest rate applied to a particular
+1. We aim at finding a regression for estimating the interest rate applied to a particular
 lending request.
-Part 2: We would like to find a classification model for the default status.
+2. We would like to find a classification model for the default status.
 
 ### Solutions & further information
 https://github.com/ramon-schildknecht/mpm_machine_learning_project
