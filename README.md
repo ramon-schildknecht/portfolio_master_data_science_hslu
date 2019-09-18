@@ -1,7 +1,7 @@
 # Portfolio Master in Applied Information and Data Science (IDS) | Hochschule Luzern | Ramon Schildknecht
 
 # Goal
-Show work that Ramon Schildknecht has done within the Master IDS.
+Show work that [Ramon Schildknecht](https://www.linkedin.com/in/ramon-schildknecht-36301756/) has done within the Master IDS.
 
 # Project Overview
 ## United Kingdom Drug Prescriptions Branded Drugs vs Generics (language: German)
