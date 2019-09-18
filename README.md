@@ -2,6 +2,8 @@
 
 # Goal
 Show work that [Ramon Schildknecht](https://www.linkedin.com/in/ramon-schildknecht-36301756/) has done within the Master IDS.
+<br/>
+<br/>
 
 # Project Overview
 ## United Kingdom Drug Prescriptions Branded Drugs vs Generics (language: German)
@@ -12,7 +14,8 @@ Wie unterscheiden sich die Preise von Branded-Produkten, für welche es Generika
 
 ### Lösungen & Details
 https://github.com/ramon-schildknecht/United_Kingdom_Drug_Prescriptions_Branded_Drugs_vs_Generics
-
+<br/>
+<br/>
 
 ## Applied Machine Learning and Predictive Modeling - Group Project Lending Club Loan Data
 ### Tasks
@@ -22,7 +25,8 @@ Part 2: We would like to find a classification model for the default status.
 
 ### Solutions & further information
 https://github.com/ramon-schildknecht/mpm_machine_learning_project
-
+<br/>
+<br/>
 
 ## Discrete Response, Time Series & Panel Data
 ### Tasks
@@ -30,17 +34,17 @@ You'll find the exercices [here](https://www.evernote.com/l/Ai-mGPrPkz9JNIxFJ_7S
 
 ### Solutions & further information
 https://github.com/ramon-schildknecht/discrete_response_time_series_panel_data/blob/master/README.md
-
+<br/>
+<br/>
 
 ## Unstructered Data Analysis | Topic modeling
 ### Tasks
 Preprocess text data, perform LDA on it, get optimum numer of topics for the data and show the top 10 words for each topic.
 
-
 ### Solutions & further information
 https://github.com/ramon-schildknecht/unstructered-data-analysis
-
-
+<br/>
+<br/>
 
 ## Reproduzierbarkeit wissenschaftliche Ergebnisse (language: German)
 ### Zweck
@@ -49,7 +53,8 @@ Aufzeigen des Vorgehens zur Erreichung wissenschaftlich reproduzierbarer Ergebni
 
 ### Lösungen & Details
 https://github.com/ramon-schildknecht/Reproduzierbarkeit-wissenschaftliche-Ergebnisse
-
+<br/>
+<br/>
 
 # Further Information regarding Master IDS
 https://www.hslu.ch/en/lucerne-school-of-business/degree-programmes/master/applied-information-and-data-science/
