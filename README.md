@@ -1,4 +1,6 @@
-# Portfolio of Solutions | Master of Applied Information and Data Science (IDS) | Hochschule Luzern | Ramon Schildknecht
+# Portfolio of Solutions | Master of Applied Information and Data Science (IDS) | Hochschule Luzern
+<br/>
+<br/>
 
 # Goal
 Show work that [Ramon Schildknecht](https://www.linkedin.com/in/ramon-schildknecht-36301756/) has done within the Master IDS.
